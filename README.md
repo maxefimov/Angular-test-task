@@ -30,8 +30,11 @@ const ELEMENT_DATA: PeriodicElement[] = [
 ```
 
 
-## Задание 2.
-
-1. Сгенерировать компонент app-start-page при помощи [Angular CLI](https://cli.angular.io)
-2. В компоненте app-start-page при помощи компонента Button (mat-button) сделать кнопку "Показать таблицу"
-3. При клике по этой кнопки должен появлятся компонент app-tabe поверх страницы. Для этого обязательно использовать CDK Overlay из [Angular Material](https://material.angular.io)
+### Задание 2.
+ 
+ 1. Сгенерировать компонент app-start-page при помощи [Angular CLI](https://cli.angular.io)
+ 2. В компоненте app-start-page при помощи компонента Button (mat-button) сделать кнопку "Показать таблицу"
+ 3. При клике по этой кнопки должен появлятся компонент app-tabe поверх страницы в модальном окне. Для этого обязательно использовать CDK Overlay из [Angular Material](https://material.angular.io)
+   > Визуально долно выглядеть **примерно** так:
+   [Modal Bootstrap](https://getbootstrap.com/docs/4.3/components/modal/)
+   > ![enter image description here](Modal.jpg "Modal")
