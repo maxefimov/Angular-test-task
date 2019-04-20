@@ -30,7 +30,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
 ```
 
 
-### Задание 2.
+## Задание 2.
  
  1. Сгенерировать компонент app-start-page при помощи [Angular CLI](https://cli.angular.io)
  2. В компоненте app-start-page при помощи компонента Button (mat-button) сделать кнопку "Показать таблицу"
