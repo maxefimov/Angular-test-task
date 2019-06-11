@@ -59,3 +59,5 @@ const ELEMENT_DATA: PeriodicElement[] = [
   6. Через 30 секунд четвертый поток прекращает брать данные и останавливает все потоки.
   > ![enter image description here](Rxjs.png "Rxjs")
   
+  
+  #### Результат залить на свой Guthub. Ссылку прислать на [форму обратной связи](https://forms.yandex.ru/u/5ce7aa786b6a50012c7424f4/).
